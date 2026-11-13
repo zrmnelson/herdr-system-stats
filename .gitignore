@@ -1,0 +1,6 @@
+# Herdr generates these for the installed runtime.
+*.d.ts
+jsconfig.json
+node_modules/
+*.error
+.DS_Store

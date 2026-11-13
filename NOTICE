@@ -1,0 +1,19 @@
+Herdr System Stats
+Copyright 2026 zrmnelson and contributors.
+
+The footer in mods/system-status/main.js is modified from Herdr app v0.1.15:
+https://github.com/herdrdev/herdr-app/blob/v0.1.15/defaults/mods/workspace-status/main.js
+Herdr app is licensed under the Apache License, Version 2.0 (see LICENSE).
+Modifications add local system metrics, polling, compact labels and bundled assets.
+
+mods/system-status/{monitor,server,branch}.svg are copied without modification
+from Herdr app v0.1.15 defaults/mods/workspace-chrome/.
+Herdr identifies shipped-mod glyphs as Lucide (ISC), including Feather-derived
+icons (MIT). Full applicable notices are in licenses/LICENSE-Lucide.txt.
+Source attribution:
+https://github.com/herdrdev/herdr-app/blob/v0.1.15/defaults/icons/LICENSES.md
+
+The four metric SVGs (cpu, gpu, vram, ram) are original artwork for this mod
+and are supplied under Apache-2.0, as are the new code and documentation.
+
+This is a community mod, not an official Herdr product or endorsement.
